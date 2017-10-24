@@ -1,0 +1,15 @@
+# config/cucumber.yml
+
+---
+default: &default
+  URI=https://dashboard.jwplayer.com
+  EMAIL=budiacctest@gmail.com
+  PASSWORD=jwT3st!ng
+  BROWSER=chrome
+  SET=production
+
+production:
+  <<: *default
+
+staging:
+  <<: *default
