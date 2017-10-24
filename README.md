@@ -17,8 +17,9 @@ Currently designed to run on ruby 2.3.0
 
 ### How to run the test
 
-To run all the test suites just type `cucumber` in the command-line/terminal
+To run all the test suites just type `cucumber` in the shell command-line/terminal
 
-To run one particular the test,  type `cucumber features/<file_name_>.feature ` in the command-line/terminal
+To run one particular the test,  type `cucumber features/<file_name_>.feature ` in the shell command-line/terminal
 
-More information and feature test will be provide soon.
+More information please contact me (budisugianto777@gmail.com)
+More feature test will be provide soon.
