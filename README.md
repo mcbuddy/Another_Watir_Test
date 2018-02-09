@@ -1,4 +1,4 @@
-# jw_player_test
+# Another_Watir_Test_Sample
 
 ## Setup
 
